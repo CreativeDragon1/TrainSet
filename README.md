@@ -12,6 +12,15 @@ Simple download all the print files given above in the github repo and print the
 
 I made this to serve as a project to learn CAD and different techniques that can be used in 3d printing like print in place mechanisms the wheel chassis use
 
+
+## BOM
+
+
+| Component | Qty | Cost |
+|---|---| --- |
+| 3-D printed parts | 1 | ~1USD |
+
+
 ## Project images!
 
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa88ce4f-848c-4701-b526-95a87c291e62" />
@@ -30,3 +39,5 @@ Printables link: https://www.printables.com/model/1654671-train-set
 
 
 Hope yall like it :0
+
+
