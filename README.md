@@ -20,7 +20,7 @@ I made this to serve as a project to learn CAD and different techniques that can
 |---|---| --- |
 | 3-D printed parts | 1 | ~2USD |
 
-Refer to [`BOM.csv`](./BOM_Trainset_-_Sheet1.csv)
+Refer to [`BOM.csv`](https://github.com/CreativeDragon1/TrainSet/blob/main/BOM_Trainset%20-%20Sheet1.csv)
 
 
 
