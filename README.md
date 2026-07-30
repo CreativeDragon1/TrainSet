@@ -18,7 +18,10 @@ I made this to serve as a project to learn CAD and different techniques that can
 
 | Component | Qty | Cost |
 |---|---| --- |
-| 3-D printed parts | 1 | ~1USD |
+| 3-D printed parts | 1 | ~2USD |
+
+Refer to [`BOM.csv`](./BOM_Trainset_-_Sheet1.csv)
+
 
 
 ## Project images!
